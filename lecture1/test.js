@@ -12,3 +12,14 @@ console.log("Shubham")
 // 6. null - used to store no value
 // 7. undefined - used to store a variable that has 
 
+const accountID = 13332
+let accountEmail = "shubham@deshmukh.com"
+var accountPass = "123456"
+accountCity = "Nashik"
+
+//accountID = 2
+
+
+console.log(accountID);
+
+console.table([accountID, accountEmail, accountPass, accountCity]);
