@@ -19,6 +19,12 @@ accountCity = "Nashik"
 
 //accountID = 2
 
+/*
+prefer not to use var
+because it is function scoped and not block scoped
+use let and const instead
+*/
+
 
 console.log(accountID);
 
