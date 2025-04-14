@@ -9,7 +9,7 @@ console.log("Shubham")
 // 3. boolean - used to store true or false data
 // 4. object - used to store complex data
 // 5. array - used to store a collection of data
-// 6. null - used to store no value
+// 6. null - used to store no value oo
 // 7. undefined - used to store a variable that has 
 
 const accountID = 133111
