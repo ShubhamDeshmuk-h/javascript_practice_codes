@@ -1,3 +1,3 @@
 ﻿# javascript_practice_codes
 
-these are the changes
+basic fundaments of javascript
