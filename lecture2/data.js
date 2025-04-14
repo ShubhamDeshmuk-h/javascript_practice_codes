@@ -31,3 +31,4 @@ what is null it is object
 
 console.log(typeof null);
 
+
