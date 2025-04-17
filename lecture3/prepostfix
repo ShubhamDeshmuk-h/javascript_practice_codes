@@ -1,0 +1,3 @@
+let gamescore = 100;
+++gamescore
+console.log(gamescore)
