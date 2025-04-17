@@ -1,3 +1,18 @@
 let gamescore = 100;
 ++gamescore
 console.log(gamescore)
+
+//conditional if else comparisons and other things
+
+//in comparisons we get True and False as output
+//comaprisons type > , < , >= , <= , != , ==
+
+
+console.log("2" > 1);
+
+// this is where we get that js automaticlly converst the give string into integer
+
+// this don't happen in typescript as it have stric rule which don't allow us to compare two different data types
+
+// === used for strict check with data type and all things
+
